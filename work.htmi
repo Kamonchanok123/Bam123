@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+
+    <title>เกี่ยวกับฉัน</title>
+</head>
+<body>
+     <nav>
+        <ul>
+            <li><a href="index.html">หน้าแรก</a></li>
+            <li><a href="about-me.html">เกี่ยวกับฉัน</a></li>
+            <li><a href="#">ผลงาน</a></li>
+            <li><a href="#">ติดต่อ</a></li>
+        </ul>
+    </nav>
+
+<div class="profile-card">
+    <img src="https://img.freepik.com/premium-vector/student-with-backpack-vectors-illustration_698535-5067.jpg" alt="">
+</div>
+
+    
+</body>
+</html>
